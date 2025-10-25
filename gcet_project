@@ -1,0 +1,41 @@
+I want to build a gate pass management system OR appointment booking application for college.
+
+We have three sides of this app : student,moderator(permission giver),gate keeper
+
+Student :
+
+			- request the reason
+
+Moderator :
+
+			- accept or reject with a remarks
+
+Gate keeper : scan.
+
+
+
+i strictly want you use poppins , fonts, minimalist theme and colours in the backgrounds or fonts colours should be very light wheat colour, white , 
+
+#8f191d colour , 
+
+#03505d
+
+
+
+I am a complete beginner I have no idea of even using vs code , postman also
+
+
+
+so give me clear step wise approach to complete this website end to end using html, css,js and in the backend use only file
+
+Nodejs ( main.js) I don’t have nodejs also in my laptop I never used npm in my life time so far so give me clear step from creating folder names ,file names and when to run, what how to run each step detailedly 
+
+
+
+How to test apis using postman ( I didn’t install postman also)
+
+So give me how to use it and also request bodies for testing apis and finally deploying it on netlify for now please use a simple json file as my database. 
+
+
+
+When you are saying the file structure don’t package json: I hope will get it when we installing things from Npm
